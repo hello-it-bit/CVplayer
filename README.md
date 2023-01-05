@@ -14,5 +14,6 @@
 ```
 ## 使用方式
 > 很高兴你能够看到这里，观众姥爷请移步AI Studio进一步详细了解本项目吧
+
 A：在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/projectdetail/4536019)  
 B：点击"运行一下"，一键fork
